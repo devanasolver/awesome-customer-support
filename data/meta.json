@@ -1,0 +1,48 @@
+{
+ "categories": [
+  {
+   "id": "helpdesk",
+   "title": "Helpdesk and ticketing",
+   "anchor": "helpdesk-and-ticketing",
+   "blurb": "Shared inboxes and ticket queues."
+  },
+  {
+   "id": "chat",
+   "title": "Live chat and messaging",
+   "anchor": "live-chat-and-messaging",
+   "blurb": "Chat widgets and omnichannel inboxes."
+  },
+  {
+   "id": "bot",
+   "title": "Chatbots and AI support agents",
+   "anchor": "chatbots-and-ai-support-agents",
+   "blurb": "Answer common questions. Hand off to a person when needed."
+  },
+  {
+   "id": "kb",
+   "title": "Knowledge bases and docs",
+   "anchor": "knowledge-bases-and-docs",
+   "blurb": "Self-serve help centers."
+  },
+  {
+   "id": "feedback",
+   "title": "Feedback and surveys",
+   "anchor": "feedback-and-surveys",
+   "blurb": "Collect feature requests and ratings."
+  },
+  {
+   "id": "status",
+   "title": "Status pages and uptime",
+   "anchor": "status-pages-and-uptime",
+   "blurb": "Tell customers when something breaks."
+  },
+  {
+   "id": "voice",
+   "title": "Call center and voice",
+   "anchor": "call-center-and-voice",
+   "blurb": "Phone support and voice bots."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Customer Support</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Customer Support\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-customer-support/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-customer-support\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-customer-support/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-customer-support?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source helpdesks, live chat, chatbots, knowledge bases and feedback tools for support teams. Every entry shows its license.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Keep a human path.** Every bot should hand off to a person.\n- **Check data location** if you store customer messages.\n- **Track a few numbers:** first reply time, resolution time, satisfaction.\n- **Check the license** and who owns the hosted version.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "repo": "botpress/botpress",
+    "category": "bot",
+    "description": "Open-source platform for building conversational AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "category": "bot",
+    "description": "Framework for building search and RAG applications.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "category": "bot",
+    "description": "RAG engine focused on deep document understanding.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langgenius/dify",
+    "category": "bot",
+    "description": "Platform for building LLM apps with workflows and RAG.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "category": "bot",
+    "description": "All-in-one app to chat with documents using any model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "onyx-dot-app/onyx",
+    "category": "bot",
+    "description": "Open-source AI search and chat over your team's documents.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "onyx-dot-app/onyx",
+    "category": "bot",
+    "description": "Open-source AI platform with search and chat over company knowledge.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "bot",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "category": "bot",
+    "description": "Framework for building contextual AI assistants and chatbots.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-24"
+  },
+  {
+    "repo": "crisp-im/crisp-sdk-web",
+    "category": "chat",
+    "description": "SDK for the Crisp chat widget. The service behind it is paid.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-11"
+  },
+  {
+    "repo": "RocketChat/Rocket.Chat",
+    "category": "chat",
+    "description": "Open-source team chat with omnichannel customer support.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "formbricks/formbricks",
+    "category": "feedback",
+    "description": "Open-source survey and experience management platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "getfider/fider",
+    "category": "feedback",
+    "description": "Open-source feedback board for collecting and prioritizing ideas.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "heyform/heyform",
+    "category": "feedback",
+    "description": "Open-source form builder for surveys and quizzes.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "LimeSurvey/LimeSurvey",
+    "category": "feedback",
+    "description": "Open-source survey tool.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "usertour/usertour",
+    "category": "feedback",
+    "description": "Open-source user onboarding and product tours.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "chatwoot/chatwoot",
+    "category": "helpdesk",
+    "description": "Open-source customer messaging platform and shared inbox.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "frappe/helpdesk",
+    "category": "helpdesk",
+    "description": "Open-source helpdesk built on the Frappe framework.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "freescout-help-desk/freescout",
+    "category": "helpdesk",
+    "description": "Free self-hosted help desk and shared mailbox.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "glpi-project/glpi",
+    "category": "helpdesk",
+    "description": "IT service management and asset tracking with ticketing.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "osTicket/osTicket",
+    "category": "helpdesk",
+    "description": "Widely used open-source support ticket system.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-17"
+  },
+  {
+    "repo": "zammad/zammad",
+    "category": "helpdesk",
+    "description": "Web-based open-source helpdesk and customer support system.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "BookStackApp/BookStack",
+    "category": "kb",
+    "description": "Simple, self-hosted wiki platform for organizing documentation.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "category": "kb",
+    "description": "Build optimized documentation websites with React.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "fuma-nama/fumadocs",
+    "category": "kb",
+    "description": "React framework for building documentation sites.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mintlify/starter",
+    "category": "kb",
+    "description": "Starter kit for Mintlify docs. The hosting is a paid service.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-28"
+  },
+  {
+    "repo": "outline/outline",
+    "category": "kb",
+    "description": "Fast, collaborative team knowledge base.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "requarks/wiki",
+    "category": "kb",
+    "description": "Modern wiki app built on Node.js.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "squidfunk/mkdocs-material",
+    "category": "kb",
+    "description": "Documentation framework on top of MkDocs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vuejs/vitepress",
+    "category": "kb",
+    "description": "Static site generator for documentation, built on Vite and Vue.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "cstate/cstate",
+    "category": "status",
+    "description": "Static status page generator built on Hugo.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "louislam/uptime-kuma",
+    "category": "status",
+    "description": "Self-hosted uptime monitoring tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "OneUptime/oneuptime",
+    "category": "status",
+    "description": "Open-source observability, status pages and incident management.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "category": "status",
+    "description": "Developer-oriented health dashboard and status page.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "upptime/upptime",
+    "category": "status",
+    "description": "Uptime monitor and status page powered by GitHub Actions.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "asterisk/asterisk",
+    "category": "voice",
+    "description": "Open-source PBX and telephony toolkit.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "fonoster/fonoster",
+    "category": "voice",
+    "description": "Open-source programmable telecom and voice AI platform.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "livekit/agents",
+    "category": "voice",
+    "description": "Framework for building real-time voice AI agents.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "pipecat-ai/pipecat",
+    "category": "voice",
+    "description": "Framework for real-time voice and multimodal conversational agents.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "signalwire/freeswitch",
+    "category": "voice",
+    "description": "FreeSWITCH telephony platform maintained by SignalWire.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  }
+]

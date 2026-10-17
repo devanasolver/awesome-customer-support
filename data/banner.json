@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "TICKET",
+  "INBOX",
+  "SLA",
+  "MACRO",
+  "CHAT",
+  "ESCALATE",
+  "KB",
+  "CSAT",
+  "QUEUE",
+  "TRIAGE",
+  "REPLY",
+  "AGENT",
+  "FEEDBACK",
+  "STATUS",
+  "HELP",
+  "TAG"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Customer Support",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "HELPDESKS  |  LIVE CHAT  |  BOTS",
+ "sub2": "KNOWLEDGE BASES  |  FEEDBACK  |  AI",
+ "foot": "Open-source support software, each checked for license and activity"
+}
